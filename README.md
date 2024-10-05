@@ -1,4 +1,4 @@
-<h1>Hospital Appointment API</h1>
+<h1>School Appointment API</h1>
 
 <p>This project is a REST API built using Django and Django REST Framework to manage hospital appointment bookings. The API allows the creation, retrieval, update, and deletion of appointments, making it easy to manage patient consultations in a hospital setting.</p>
 
